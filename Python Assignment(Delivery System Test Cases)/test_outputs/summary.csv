@@ -1,0 +1,11 @@
+case,file,warehouses,agents,packages,best_agent,validation,report_file
+1,test_case_1.json,5,4,12,A1,PASSED,report_1.json
+10,test_case_10.json,5,4,11,A4,PASSED,report_10.json
+2,test_case_2.json,3,3,10,A1,PASSED,report_2.json
+3,test_case_3.json,4,4,6,A3,PASSED,report_3.json
+4,test_case_4.json,5,5,12,A3,PASSED,report_4.json
+5,test_case_5.json,5,5,10,A3,PASSED,report_5.json
+6,test_case_6.json,4,4,9,A3,PASSED,report_6.json
+7,test_case_7.json,4,4,10,A3,PASSED,report_7.json
+8,test_case_8.json,5,4,11,A1,PASSED,report_8.json
+9,test_case_9.json,3,4,8,A3,PASSED,report_9.json
